@@ -14,7 +14,7 @@ Showcases award-winning websites, offering inspiration and best practices for UI
 
 &nbsp;
 
-![AWWWARDS Screenshot]({B7F54461-0180-4EAE-94DD-BC56D4C05F96}.png)
+![AWWWARDS Screenshot](images/{B7F54461-0180-4EAE-94DD-BC56D4C05F96}.png)
 
 &nbsp;
 
@@ -30,7 +30,7 @@ A community of designers sharing screenshots of their work, ideal for finding in
 
 &nbsp;
 
-![DRIBBBLE Screenshot](./{E539A363-EF67-4E74-8EC7-F83972017DD7}.png)
+![DRIBBBLE Screenshot](images/{E539A363-EF67-4E74-8EC7-F83972017DD7}.png)
 
 &nbsp;
 
@@ -46,7 +46,7 @@ A comprehensive library of hand-picked mobile and web design patterns from real 
 
 &nbsp;
 
-![MOBBIN Screenshot]({D63FCEC9-8321-4A82-8C09-09219ED47B32}.png)
+![MOBBIN Screenshot](images/{D63FCEC9-8321-4A82-8C09-09219ED47B32}.png)
 
 &nbsp;
 
@@ -62,7 +62,7 @@ A visual discovery platform where users can explore and save creative ideas, mak
 
 &nbsp;
 
-![Pinterest Screenshot]({19257018-05A9-4F72-98A2-ED4A591B2E94}.png)
+![Pinterest Screenshot](images/{19257018-05A9-4F72-98A2-ED4A591B2E94}.png)
 
 &nbsp;
 
@@ -82,7 +82,7 @@ A modern React component library offering customizable UI elements for fast and 
 
 &nbsp;
 
-![Aceternity UI Screenshot]({9B861E21-30DA-43EB-B22D-8DE17D98D1B6}.png)
+![Aceternity UI Screenshot](images/{9B861E21-30DA-43EB-B22D-8DE17D98D1B6}.png)
 
 &nbsp;
 
@@ -98,7 +98,7 @@ A popular React UI library providing accessible, customizable components built w
 
 &nbsp;
 
-![shadcn/ui Screenshot]({8FCFFBA1-417F-4D03-BA07-AEC322CF6789}.png)
+![shadcn/ui Screenshot](images/{8FCFFBA1-417F-4D03-BA07-AEC322CF6789}.png)
 
 &nbsp;
 

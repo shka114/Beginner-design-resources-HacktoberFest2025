@@ -2,9 +2,15 @@
 
 &nbsp;
 
-### 1. **[AWWWARDS](https://www.awwwards.com/)**
+# <span style="font-size:3em; font-weight:bold;">Design Reference Websites for Inspirations</span>
 
+&nbsp;
+
+### <span style="font-size:2em; font-weight:bold;">1. <a href="https://www.awwwards.com/">AWWWARDS</a></span>
+
+<span style="font-size:1.3em;">
 Showcases award-winning websites, offering inspiration and best practices for UI design and development.
+</span>
 
 &nbsp;
 
@@ -16,9 +22,11 @@ Showcases award-winning websites, offering inspiration and best practices for UI
 
 &nbsp;
 
-### 2. **[DRIBBBLE](https://dribbble.com/)**
+### <span style="font-size:2em; font-weight:bold;">2. <a href="https://dribbble.com/">DRIBBBLE</a></span>
 
+<span style="font-size:1.3em;">
 A community of designers sharing screenshots of their work, ideal for finding inspiration and connecting with other creatives.
+</span>
 
 &nbsp;
 
@@ -30,9 +38,11 @@ A community of designers sharing screenshots of their work, ideal for finding in
 
 &nbsp;
 
-### 3. **[MOBBIN](https://mobbin.com/)**
+### <span style="font-size:2em; font-weight:bold;">3. <a href="https://mobbin.com/">MOBBIN</a></span>
 
+<span style="font-size:1.3em;">
 A comprehensive library of hand-picked mobile and web design patterns from real apps, useful for UI/UX inspiration and reference.
+</span>
 
 &nbsp;
 
@@ -44,9 +54,11 @@ A comprehensive library of hand-picked mobile and web design patterns from real 
 
 &nbsp;
 
-### 4. **[Pinterest](https://www.pinterest.com/)**
+### <span style="font-size:2em; font-weight:bold;">4. <a href="https://www.pinterest.com/">Pinterest</a></span>
 
+<span style="font-size:1.3em;">
 A visual discovery platform where users can explore and save creative ideas, making it a valuable resource for design inspiration across various styles and disciplines.
+</span>
 
 &nbsp;
 
@@ -58,13 +70,15 @@ A visual discovery platform where users can explore and save creative ideas, mak
 
 &nbsp;
 
-# **UI Libraries**
+# <span style="font-size:3em; font-weight:bold;">UI Libraries</span>
 
 &nbsp;
 
-### 1. **[Aceternity UI](https://ui.aceternity.com)**
+### <span style="font-size:2em; font-weight:bold;">1. <a href="https://ui.aceternity.com">Aceternity UI</a></span>
 
+<span style="font-size:1.3em;">
 A modern React component library offering customizable UI elements for fast and elegant web development.
+</span>
 
 &nbsp;
 
@@ -76,9 +90,11 @@ A modern React component library offering customizable UI elements for fast and 
 
 &nbsp;
 
-### 2. **[shadcn/ui](https://ui.shadcn.com/)**
+### <span style="font-size:2em; font-weight:bold;">2. <a href="https://ui.shadcn.com/">shadcn/ui</a></span>
 
+<span style="font-size:1.3em;">
 A popular React UI library providing accessible, customizable components built with Radix UI and Tailwind CSS.
+</span>
 
 &nbsp;
 
@@ -90,10 +106,12 @@ A popular React UI library providing accessible, customizable components built w
 
 &nbsp;
 
-## **Explore More!**
+## <span style="font-size:2em; font-weight:bold;">Explore More!</span>
 
 &nbsp;
 
-There are countless ways to find inspiration for your websites and discover great UI component libraries. These resources are a fantastic starting point—explore them and elevate your design skills. **Happy Coding!**
+<span style="font-size:1.3em;">
+There are countless ways to find inspiration for your websites and discover great UI component libraries. These resources are a fantastic starting point—explore them and elevate your design skills. <strong>Happy Coding!</strong>
+</span>
 
 &nbsp;

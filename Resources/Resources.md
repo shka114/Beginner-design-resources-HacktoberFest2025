@@ -1,4 +1,3 @@
-# **Design Reference Websites for Inspirations**
 
 &nbsp;
 

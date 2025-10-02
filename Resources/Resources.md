@@ -77,7 +77,7 @@ A visual discovery platform where users can explore and save creative ideas, mak
 ### <span style="font-size:2em; font-weight:bold;">1. <a href="https://ui.aceternity.com">Aceternity UI</a></span>
 
 <span style="font-size:1.3em;">
-A modern React component library offering customizable UI elements for fast and elegant web development.
+A modern React component library offering customizable UI elements for fast and elegant web development. 
 </span>
 
 &nbsp;

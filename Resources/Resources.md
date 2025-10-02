@@ -6,7 +6,7 @@
 
 2. **[DRIBBBLE](https://dribbble.com/)** – A community of designers sharing screenshots of their work, ideal for finding inspiration and connecting with other creatives.
 
-![alt text](D:\Project\Portfolio\beginner-design-resources\Resources\{E539A363-EF67-4E74-8EC7-F83972017DD7}.png)
+![alt text](./{E539A363-EF67-4E74-8EC7-F83972017DD7}.png)
 
 3. **[MOBBIN](https://mobbin.com/)** – A comprehensive library of hand-picked mobile and web design patterns from real apps, useful for UI/UX inspiration and reference.
 

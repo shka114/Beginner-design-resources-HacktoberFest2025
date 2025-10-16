@@ -1,67 +1,82 @@
+# 🖌️ Figma Tutorial for Beginners
 
-# Beginner-Design-Resources HacktoberFest2025
-![Image](https://github.com/user-attachments/assets/3c277aa6-6fb1-4636-b14a-a05bbbe9a0d9)
-
-##  About Us
-The **Mozilla Campus Club of CCEW** was formed to **promote the idea of open source** among aspiring students and encourage them to make the most of the opportunities that come along with it.  
-Our aim is to help students contribute to real-world projects while learning and growing with the community.
-
+This tutorial introduces the basics of Figma, a popular web-based design tool used for UI/UX design, wireframing, and prototyping.
 
 ---
 
+## 1. Getting Started
 
-##  About This Repository
-This repository was created specifically to **support open-source participation among college students**.  
-The issues listed here will range in difficulty — from **beginner-friendly** to **advanced-level** — ensuring everyone has a fair opportunity to contribute.
-
-
----
-
-
-## Instructions for Hacktoberfest 2025
-
-
-> Please read the following instructions carefully before contributing 
-
-
-- You must be a **student of CCEW**.  
-- You should be **registered in Mozilla** via the Mozilla-Campus Club website link shared earlier and also on the **official Hacktoberfest website**.  
-- Each participant is allowed a **maximum of 3 Pull Requests (PRs)** throughout the event.  
-- Make sure your **GitHub profile name** matches your real name (`First Name Last Name`).  
-  > If we’re unable to identify you, your PR won’t be accepted.  
-- When requesting issue assignment, mention:
-  - Your **name**
-  - **Branch**
-  - **Year of study**
-- Ensure your **code has proper comments and indentation**.  
-- **No spamming** — spam PRs will be rejected.  
-- **Plagiarism is strictly prohibited.**
-  > If plagiarism is detected, the PR will be rejected and no further contributions will be accepted.  
-- Issues will be assigned on a **first-come, first-serve basis**.  
-- Time limits:
-  -  **4 days** for easy/medium issues  
-  -  **7 days** for hard issues  
-  - If you fail to complete within the time, the issue will be reassigned to another student.
-
+1. Go to [Figma](https://www.figma.com/) and sign up (free plan is enough for beginners).  
+2. Once logged in, you can either:
+   - Create a **New File** for a blank canvas.
+   - Open an existing Figma file or template.
 
 ---
 
-## About this Project
-This repository is a beginner-friendly collection of design resources, templates, and tutorials aimed at helping new contributors learn design fundamentals. The focus is on easy-to-use design tools like Figma, Canva, and popular UI/UX principles.
+## 2. Creating Frames
 
-## Setup Instructions
-No setup required:
-- Fork the repo.
-- Add templates, guides, or resource links inside appropriate folders.
-- Submit your contributions via pull requests.
+Frames in Figma act like artboards in other design tools. They help structure your design and organize elements.
 
-Recommended file types: `.md` for documentation, `.png`, `.jpeg`, `.svg` for images, `.fig` for Figma files.
+1. Select the **Frame Tool** (`F`) from the toolbar.
+2. Click and drag on the canvas to create a frame of any size.
+3. You can also choose **preset device sizes** (like iPhone, Desktop) from the right-hand panel.
+4. Frames can contain other elements like shapes, text, and images.
 
-## Contribution Guidelines
-- Fork the repository.
-- Create a new branch (`git checkout -b feature-name`).
-- Add or improve resources.
-- Commit your changes (`git commit -m "Add beginner UI kit templates"`).
-- Push to your branch (`git push origin feature-name`).
-- Open a pull request.
-- Follow respectful conduct and guidelines.
+💡 Tip: Use frames to define screens for your app or sections of a webpage.
+
+---
+
+## 3. Adding Elements
+
+- **Shapes:** Press `R` for rectangle, `O` for ellipse, or use the shape tools in the toolbar.
+- **Text:** Press `T` to add text boxes.
+- **Images:** Drag and drop images or use `Place Image` (`Shift+Ctrl+K` / `Shift+Cmd+K`).
+
+---
+
+## 4. Creating Components
+
+Components are reusable design elements, like buttons or icons.
+
+1. Select the element or group of elements you want to reuse.
+2. Right-click and choose **Create Component** or press `Ctrl+Alt+K` / `Cmd+Option+K`.
+3. The component will appear in the **Assets panel** and can be reused multiple times.
+4. Any updates to the main component will automatically update all instances.
+
+💡 Example: Create a primary button as a component so all buttons in your design stay consistent.
+
+---
+
+## 5. Prototyping
+
+Prototyping allows you to simulate how your app or website will behave.
+
+1. Switch to the **Prototype** tab in the right-hand panel.
+2. Select an element (like a button) and drag the **blue node** to the frame you want to link to.
+3. Set interaction details:
+   - **Trigger:** On Click, On Hover, etc.
+   - **Action:** Navigate To, Open Overlay, Scroll, etc.
+4. Click **Present** (`Play` icon) in the top-right to test your prototype.
+
+💡 Tip: Use prototyping to show the flow between app screens or webpage sections.
+
+---
+
+## 6. Tips for Beginners
+
+- Use **Layers panel** to organize frames and elements.
+- Use **Components and Styles** to maintain consistency.
+- Keep your frames and layers named properly for easier navigation.
+- Explore Figma community templates for inspiration: [Figma Community](https://www.figma.com/community).
+
+---
+
+## 7. Resources
+
+- [Figma Official Help](https://help.figma.com/hc/en-us)
+- [Figma YouTube Channel](https://www.youtube.com/figma)
+- Free UI Kits and Templates in Figma Community
+
+---
+
+Now you’re ready to create your first design project using **frames, components, and prototypes**! 🎨

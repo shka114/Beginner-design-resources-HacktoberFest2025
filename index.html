@@ -1,0 +1,121 @@
+<!DOCTYPE HTML>
+<html lang ="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML template</title>
+    <style>
+        body{
+        font-family: Arial ;
+        text-align: center;
+        background-image: url("images/background_img.jpg"); 
+        background-repeat: no-repeat;
+        background-size: cover;
+        }
+        .container{
+            background-color: rgb(126, 196, 220);
+            border-radius: 20px;
+            width: 50%;
+            max-width: 50%;
+            text-align: center;
+            margin: 0 auto;
+            
+        }
+        .container1_for_text{
+            background-color: rgb(234, 154, 234) ;
+            width: 80%;
+            text-align: left;
+            margin: 20px 20px;
+            padding: 20px;
+            border-radius: 15px;
+            height: 150px;
+        }
+        .container2_for_text{
+            background-color: rgb(156, 226, 81) ;
+            width: 80%;
+            text-align: left;
+            margin: 20px 20px;
+            padding: 20px;
+            border-radius: 15px;
+            height: 650px;
+            }
+        .input-group {
+                /* stack rows vertically */
+                    display: flex;
+                    flex-direction: column;
+                    align-items: left;
+                    margin: 10px 0;
+                    gap: 20px;
+            }
+
+            /* each row places label and input side-by-side */
+            .input-row {
+                display: flex;
+                align-items: left;
+                gap: 12px;
+            }
+
+            .input-row h3 {
+                min-width: 180px; /* fixed label width */
+                margin: 0;
+                font-weight: 600;
+                font-size: 1rem;
+            }
+            .SUBMIT {
+                width: 100%;
+                display: flex;
+                justify-content: center;
+                margin-top: 20px;
+            }
+            .SUBMIT button {
+                padding: 12px 30px;
+                background-color: #3508eb;
+                color: rgb(238, 236, 237);
+                border: none;
+                border-radius: 8px;
+                font-size: 16px;
+                cursor: pointer;
+                transition: background-color 0.2s;
+            }
+            .SUBMIT button:hover {
+                background-color: #7666e1;
+            }
+                input[type="text"], input[type="integer"] {
+                    flex: 1;
+                    padding: 12px 1px;
+                    width: 50%;
+                    border: 2px solid #ccc;
+                    border-radius: 8px;
+                    font-size: 16px;
+            }
+    </style>
+    <head>
+        <body>
+            <div class="container">
+            <h1>  Heading of the page  </style></h1>
+            </div>
+            <div class = "container1_for_text">
+            <p>This is an HTML template</p>
+            </div>    
+            <div class = "container2_for_text">
+                <div class="input-group">
+                    
+                        <h3>Enter your name</h3>
+                        <input type='text' name='username' placeholder="Type your name here">
+                        <h3>Enter your address</h3>
+                        <input type='text' name='address' placeholder="Type your address here">
+                        <h3>Enter your contact number</h3>
+                        <input type="integer" name="contactnumber" placeholder="Type your contact number here">
+                        <h3>Enter your email ID</h3>
+                        <input type="text" name="email" placeholder="Type your email ID here">
+                </div>
+                <div class="SUBMIT">
+                    <button type="submit">SUBMIT</button>
+                </div>
+            </div>
+
+        </body>
+    </head>
+    
+
+</html>

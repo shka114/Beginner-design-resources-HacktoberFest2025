@@ -73,8 +73,8 @@ Prototyping allows you to simulate how your app or website will behave.
 
 ## 7. Resources
 
-- [Figma Official Help](https://help.figma.com/hc/en-us)
-- [Figma YouTube Channel](https://www.youtube.com/figma)
+- [(Figma Official Help)](https://help.figma.com/hc/en-us)]
+- [(Figma YouTube Channel)](https://www.youtube.com/figma)]
 - Free UI Kits and Templates in Figma Community
 
 ---
